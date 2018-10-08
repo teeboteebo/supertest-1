@@ -8,3 +8,5 @@ myFirstGit
 plain text här
 
 **fet text här**
+
+Vi har skapat en konflikt
