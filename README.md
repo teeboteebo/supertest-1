@@ -1,15 +1,6 @@
-# supertest-1
-myFirstGit
+HÖRRU JEPPE!!!
 
-## Hej hej
+Har du bra koll på detta med GIT nu?
+Jag känner mig lite osäker på branches och vilken som ska vara utcheckad när man mergar låt säga master med dev.
 
-### H3 ser ut så här
-
-plain text här
-
-**fet text här**
-
-
-HÄRLIGT JEPPE!!!!
-
-You're a man of culture as well, doge boi..
+Har du koll på det? 
