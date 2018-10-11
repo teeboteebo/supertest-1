@@ -6,3 +6,4 @@ Jag känner mig lite osäker på branches och vilken som ska vara utcheckad när
 Har du koll på det? 
 
 Info från dev som inte ännu mergats in
+Ok vi gör en till commit på dev som vi heller inte mergat in ännu
